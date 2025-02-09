@@ -6,7 +6,7 @@
 
 ---
 
-It's me, **Nikola Trajkovski**. I'm a passionate software engineer who enjoys solving complex problems. I enjoy building scalable applications and working with modern technologies. I'm currently in my final year of studies at the Faculty of Computer Science and Engineering.
+It's me, **Nikola Trajkovski**. I'm a passionate software engineer who enjoys solving complex problems, building scalable applications and working with modern technologies. I'm currently in my final year of studies at the Faculty of Computer Science and Engineering.
 
 Here’s my tech stack—these are the tools and technologies I work with to bring ideas to life and build robust solutions:
 
