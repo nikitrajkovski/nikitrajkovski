@@ -2,16 +2,14 @@
   <img src="https://github.com/nikitrajkovski/nikitrajkovski/blob/main/banner.svg" alt="Nikola Trajkovski" />
 </div>
 
-*Wake up, Neo...*
-
 ---
 
-It's me, **Nikola Trajkovski**. I'm a passionate software engineer who enjoys solving complex problems, building scalable applications and working with modern technologies. I'm currently in my final year of studies at the Faculty of Computer Science and Engineering.
+It's me, **Nikola Trajkovski**. I'm a passionate software engineer who enjoys solving complex problems, building scalable applications and working with modern technologies. 
 
 Here’s my tech stack—these are the tools and technologies I work with to bring ideas to life and build robust solutions:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="8" />
@@ -29,8 +27,6 @@ Here’s my tech stack—these are the tools and technologies I work with to bri
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="kubernetes logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
 </div><br/>
 
@@ -39,4 +35,3 @@ You can reach me via email at [ntrajkovski5@gmail.com](mailto:ntrajkovski5@gmail
 Thanks for stopping by! 😊
 
 ---
-<div align="center"><img src="https://raw.githubusercontent.com/nikitrajkovski/nikitrajkovski/output/snake.svg" alt="Snake animation" /></div>
