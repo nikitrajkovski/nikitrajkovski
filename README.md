@@ -27,4 +27,5 @@ Here’s my tech stack—these are the tools and technologies I work with to bri
 </div><br/>
 
 You can reach me via email at [ntrajkovski5@gmail.com](mailto:ntrajkovski5@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nikitrajkovski).
+
 ---
